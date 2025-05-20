@@ -17,3 +17,7 @@ venv/
 
 # VS Code
 .vscode/
+
+# Local files
+logs/*
+notebooks/data
