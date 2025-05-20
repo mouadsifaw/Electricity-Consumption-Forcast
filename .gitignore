@@ -22,3 +22,4 @@ env/
 # Local files
 logs/*
 notebooks/data
+artifacts/prophet_model.pkl
